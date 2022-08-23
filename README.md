@@ -1,0 +1,2 @@
+# Django_managementSystem
+基于Dajngo的简单员工后台管理系统
